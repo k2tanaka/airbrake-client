@@ -1,0 +1,7 @@
+{
+    "key": "<<key>>",
+    "env": "develop",
+    "timeout": 5000,
+    "maxSockets": 10,
+    "proxy": false
+}

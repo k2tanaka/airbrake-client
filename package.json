@@ -1,0 +1,26 @@
+{
+  "name": "airbrake-client",
+  "version": "0.0.1",
+  "description": "airbrake client.",
+  "dependencies": {
+    "request": "2.37.0",
+    "xmlbuilder": ">=2.1.0",
+    "stack-trace": ">=0.0.9",
+    "lodash": ">=2.4.1"
+  },
+  "devDependencies": {
+    "mocha": ">=1.0.1",
+    "should": ">=0.6.1"
+  },
+  "main": "./lib/airbrake.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "os": [
+    "darwin",
+    "linux"
+  ],
+  "directories": {
+    "lib": "./lib"
+  }
+}
